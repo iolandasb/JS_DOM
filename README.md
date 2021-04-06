@@ -1,5 +1,5 @@
 # JS_DOM
-Create a place on an HTML page to add elements and create a list, being possible to mark them as finished or delete them
+Creation of a functionality in HTML that allows the insertion of items forming a list. Added items can be marked as completed or deleted
 
 # Conceitos e Funcionalidades
 
